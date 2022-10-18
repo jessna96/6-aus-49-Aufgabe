@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6FF241CE-C00D-412E-8DDD-B22F9F3F5069}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lotteryAPI/Controllers/LotteryDrawController.cs">
+    <Files>
+      <File FileName="lotteryAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="lotteryAPI/Models/NumberSeries.cs" Line="14" Column="1" />
+      <File FileName="lotteryAPI/Program.cs" Line="16" Column="38" />
+      <File FileName="lotteryAPI/Controllers/LotteryDrawController.cs" Line="16" Column="71" />
+      <File FileName="lotteryAPI/Controllers/Data/DataContext.cs" Line="15" Column="56" />
+      <File FileName="lotteryAPI/appsettings.json" Line="9" Column="6" />
+      <File FileName="lotteryAPI/WeatherForecast.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lotteryAPI" expanded="True">
+            <Node name="lotteryAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.lotteryAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
