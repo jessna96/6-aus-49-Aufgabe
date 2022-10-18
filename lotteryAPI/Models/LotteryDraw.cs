@@ -10,8 +10,6 @@ namespace lotteryAPI.Models
         public int NrFive { get; set; }
         public int NrSix { get; set; }
         public DateTime DrawDate { get; set; }
-
-
     }
 }
 
