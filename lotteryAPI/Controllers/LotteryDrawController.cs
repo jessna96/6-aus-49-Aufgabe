@@ -8,8 +8,6 @@ using lotteryAPI.Models;
 using System.Xml.Linq;
 
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace lotteryAPI.Controllers
 {
     [Route("api/[controller]")]
@@ -64,7 +62,7 @@ namespace lotteryAPI.Controllers
 
         private static void getLotteryDrawFromTextfile()
         {
-            // reset draw list - not ideal
+            // reset draw list
             draws = new List<LotteryDraw>();
             // get lottery draws from textfile
             String drawInFile;
